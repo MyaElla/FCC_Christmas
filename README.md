@@ -4,4 +4,6 @@
 
 practice of parallax
 followed steps on https://1stwebdesigner.com/parallax-scrolling-tutorial/
+
+
 Note: `PersonalPortfolio_project2`
